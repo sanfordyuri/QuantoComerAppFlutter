@@ -1,16 +1,20 @@
-# quantocomerappvflutter
+# Aplicativo quanto comer?
 
-A new Flutter project.
+O Nosso objetivo é tornar a sua vida mais simples!
 
-## Getting Started
+#
 
-This project is a starting point for a Flutter application.
+- Esse repositório contém o código do aplicativo 'Quanto Comer?' na versão migrada para o flutter.
+- O Nosso objetivo é tornar a sua vida mais simples!
+- Desenvolvedor: Yuri Sanford
 
-A few resources to get you started if this is your first Flutter project:
+#
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Assista a playlist de desenvolvimento desse APP no Youtube! 
+- Link para a playlist: https://www.youtube.com/channel/UCMniDJJcqPkhEzCRpRU3ckQ
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#
+# Conteudos abordados:
+- Git e Github
+- Dart
+- Flutter
