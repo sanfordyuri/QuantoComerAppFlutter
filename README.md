@@ -8,8 +8,6 @@ O Nosso objetivo é tornar a sua vida mais simples!
 - O Nosso objetivo é tornar a sua vida mais simples!
 - Desenvolvedor: Yuri Sanford
 
-#
-
 - Assista a playlist de desenvolvimento desse APP no Youtube! 
 - Link para a playlist: https://www.youtube.com/channel/UCMniDJJcqPkhEzCRpRU3ckQ
 
