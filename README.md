@@ -11,7 +11,7 @@ O Nosso objetivo é tornar a sua vida mais simples!
 - Link para a playlist: https://www.youtube.com/channel/UCMniDJJcqPkhEzCRpRU3ckQ
 
 #
-# Conteudos abordados:
+ Conteudos abordados:
 - Git e Github
 - Dart
 - Flutter
