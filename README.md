@@ -2,7 +2,6 @@
 
 O Nosso objetivo é tornar a sua vida mais simples!
 
-#
 
 - Esse repositório contém o código do aplicativo 'Quanto Comer?' na versão migrada para o flutter.
 - O Nosso objetivo é tornar a sua vida mais simples!
