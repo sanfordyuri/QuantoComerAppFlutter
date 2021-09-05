@@ -15,3 +15,4 @@ O Nosso objetivo é tornar a sua vida mais simples!
 - Git e Github
 - Dart
 - Flutter
+- Widgets customizados
